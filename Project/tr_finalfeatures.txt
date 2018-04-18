@@ -1,0 +1,28 @@
+1  hat [('hats', 'NNS')] waiting and 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2  house [('house', 'NN')] and a 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0
+2  wall [('wall', 'NN')] with green 0 0 0 0 1 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0
+3  sign [('sign', 'NN')] saying a 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+4  hole [('hole', 'NN')] in rock 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0
+5  man [('man', 'NN')] in one 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+5  pant [('pants', 'NNS')] and grey 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+5  shovel [('shovel', 'NN')] , a 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+5  pant [('pants', 'NNS')] and grey 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+5  jumper [('jumper', 'NN')] and white 0 0 0 0 1 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0
+5  hat [('hat', 'NN')] , traditional 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+5  towards [('towards', 'NNS')] him walking 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+5  him [('him', 'PRP')] null towards 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+6  building [('building', 'NN')] with yellow 0 0 0 0 1 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0
+6  column [('columns', 'NN')] in white 0 0 0 1 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+7  palm [('palm', 'NN')] trees two 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+7  tree [('trees', 'NNS')] in palm 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+8  car [('cars', 'NNS')] parked . 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+9  woman [('woman', 'NN')] and a 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+10 building [('building', 'NN')] on large 0 0 0 0 1 1 1 1 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+10 tree [('tree', 'NN')] in palm 0 0 0 0 0 1 1 0 0 0 1 1 0 1 0 0 0 0 0 0 0 1 0 0
+10 car [('cars', 'NNS')] in white 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+10 others [('others', 'NNS')] going , 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+11 umbrella [('umbrellas', 'NNS')] in red 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+12 road [('road', 'NN')] in the 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+13 statue [('statue', 'NN')] with large 0 0 0 0 1 1 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0
+13 arm [('arms', 'NNS')] on spread 0 0 1 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+14 picture [('picture', 'NN')] taken . 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0

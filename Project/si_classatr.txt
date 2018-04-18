@@ -1,0 +1,669 @@
+on	0
+in	1
+on the right	2
+in	3
+surrounded by	3
+walking towards	4
+in	5
+in front of	6
+in front of	7
+walking over	8
+on the left	9
+in centre of	9
+in	9
+at	9
+at	9
+in	10
+on the right	10
+through	11
+in	11
+on	12
+on	14
+leading up	15
+in	16
+in	18
+in the middle of	19
+in the middle of	19
+in	20
+on	21
+in	21
+in	22
+over	23
+in	24
+in	24
+in	26
+on	27
+among	27
+in front of	27
+on the right	27
+going up	28
+in	29
+in	29
+on	30
+on	32
+in	33
+in	34
+in	34
+in	35
+in	35
+in	36
+in	38
+at	39
+in	39
+on top of	41
+in	42
+in	42
+in	43
+at	44
+in	45
+in	46
+in	48
+on	49
+in	49
+leaning on	49
+in	52
+to	52
+in	53
+in	53
+in	54
+on	55
+on	56
+at	57
+at	57
+in	58
+in	59
+in	59
+on the right	60
+in	61
+at the top of	62
+on the left	63
+leading up to	65
+supporting	67
+in	68
+on the left	69
+on the right	70
+on the left	70
+on	71
+crossing	71
+along the left side of	72
+lined up	73
+on the right side	73
+outside	74
+behind	75
+on	76
+in	76
+in	77
+on	78
+in	78
+behind	79
+on top	80
+on the left	80
+in	81
+through	83
+on the left	84
+in	85
+on	86
+in	88
+in front of	89
+in the middle of	91
+on the left	92
+in	93
+in	94
+in front of	95
+on	102
+against	102
+in	104
+on	105
+in front of	105
+on	106
+opposite	107
+in	108
+behind	108
+at	109
+in the middle of	109
+on	110
+next to	111
+away from	111
+in	112
+in	113
+in	114
+on	114
+around	114
+in	117
+behind	117
+next to	117
+in middle of	118
+in	119
+in	120
+on	123
+at	127
+in	128
+on	129
+in	130
+in	131
+in	132
+at	134
+behind	135
+on	136
+in front of	136
+behind	139
+on the left	140
+at	141
+at	141
+in	142
+with	143
+in	143
+on	144
+with	144
+in	145
+around	146
+next to	147
+on the left	148
+in	149
+in	150
+in	151
+in	151
+behind	152
+in	153
+below	153
+in	154
+the distant	154
+in front of	155
+about to	156
+in	157
+sitting around	158
+in	158
+in	159
+the distant	159
+in	160
+at the back of	163
+on	164
+in	166
+on the left	168
+on the right	168
+behind	169
+on	169
+in	169
+in front of	170
+of	170
+at	172
+on	174
+in	174
+in front of	175
+with	175
+with	176
+in	176
+at the back of	176
+in	177
+leaning on	179
+in	179
+in	180
+at	181
+at	182
+behind	182
+at	183
+in	183
+in	186
+at	188
+on	190
+in	190
+on	195
+in	195
+in front	196
+in	197
+around	198
+on	198
+on	199
+behind	199
+in	200
+on the right	200
+on	201
+at the top of	203
+in	204
+at	205
+at	205
+in	206
+in	207
+in the centre of	208
+at	209
+at	210
+to	210
+on	210
+in	211
+at	212
+in	212
+on the left	213
+on	214
+at the back	214
+on the left	214
+in front of	215
+around	216
+in	217
+in	218
+around	220
+in	221
+on	221
+in	222
+in front of	223
+in	223
+at	223
+above	224
+between	224
+on	224
+below	224
+on	225
+at	226
+at the back of	227
+on the left	228
+on	228
+below	229
+out from	229
+in front of	230
+in	231
+in	232
+in	233
+at	234
+in front of	237
+in	237
+at	238
+above	239
+between	239
+on	239
+below	239
+below	240
+out of	241
+climbing up	242
+in front of	243
+at	244
+in	244
+on	246
+at the back	246
+on	247
+on	248
+in the front	249
+in	250
+in	251
+in front of	251
+above	252
+on	253
+behind	255
+on	257
+in	258
+in front of	259
+in	261
+in	262
+on	263
+on	265
+on	267
+next to	269
+in front of	270
+on	271
+at	272
+on	275
+behind	275
+in	277
+on	279
+in	279
+in front of	280
+in front of	282
+in	283
+in front of	284
+on	285
+in	285
+on	288
+behind	288
+in	289
+of his left	289
+on	290
+in front of	290
+in	290
+in front of	291
+at	293
+in front of	293
+in front of	295
+on	296
+on	297
+behind	297
+on	298
+on	299
+behind	299
+at	300
+in	301
+in	302
+in front of	303
+in front of	304
+outside	305
+in	306
+outside	307
+in	308
+outside	309
+in	310
+at	311
+below	311
+in front of	312
+at	313
+outside	313
+in front of	315
+in	316
+in front of	316
+at	317
+in front of	317
+in	318
+in front of	318
+at	319
+in	319
+in	320
+next to	321
+in	321
+on	322
+in	322
+at	324
+in	324
+in front of	324
+at	325
+next to	326
+in	327
+at	328
+outside	328
+at	329
+on	330
+on the left	330
+in front of	331
+in front of	332
+in front of	333
+in	334
+in	335
+at	336
+in	336
+in	337
+at	338
+in	338
+in	339
+along	339
+between	339
+in front of	340
+in	340
+in	341
+in	342
+at	343
+in	343
+in	344
+at	344
+at	345
+in	345
+on	346
+in front of	346
+in	347
+at	348
+in	348
+in	349
+at	350
+behind	350
+on	351
+in	351
+next to	352
+on	353
+next to	353
+in	354
+between	355
+in	355
+in	356
+underneath	356
+in	357
+at	358
+in	358
+between	359
+in	359
+on	360
+in	360
+on	362
+at the front	362
+at	363
+in	363
+behind	364
+on	365
+next to	366
+in	366
+on	367
+behind	367
+on	368
+next to	368
+on	369
+in	371
+in	372
+underneath	372
+in	373
+at	373
+in	374
+underneath	374
+in	375
+in	376
+at	377
+in	377
+on	378
+at	378
+in	379
+at	380
+in	380
+behind	381
+at	382
+in	382
+in	383
+in	384
+at	385
+in	385
+at	386
+in	386
+at	387
+in	387
+in	388
+in front of	388
+in	388
+in	389
+in	390
+behind	391
+in	392
+in	393
+behind	394
+in	395
+at	395
+at	396
+in	396
+on	397
+in	398
+in	399
+behind	400
+at	401
+in	401
+on the right	402
+in	403
+in	404
+on	404
+in	405
+at	406
+in	406
+in	407
+in	408
+at	409
+in	409
+in	410
+in	411
+at	411
+in	412
+in	413
+in	414
+in	415
+behind	416
+at	417
+in	417
+in	418
+in front of	418
+in	419
+at	419
+in	420
+in front of	420
+in	421
+in	424
+in	427
+on	428
+in	429
+in	431
+in	432
+the distant	432
+in	435
+sitting outside	436
+in	440
+in	441
+at	442
+in	442
+in	443
+outside	443
+in	444
+in	445
+in	446
+in front of	447
+in	447
+at	448
+at	449
+in	449
+in	450
+in	451
+standing outside	452
+in	453
+in	454
+in	455
+in	456
+at	457
+in	457
+in front of	458
+in	458
+at	459
+behind	460
+in	461
+on	463
+in	464
+in	466
+in	468
+in	470
+in	471
+in	472
+in	474
+in	478
+on	484
+in front of	485
+on the right	487
+on the left	487
+in	487
+in front of	488
+in distance	492
+in front of	493
+in	494
+in	495
+lying around	496
+in	498
+lying around in	499
+behind	499
+in	500
+behind	500
+in	501
+in	502
+behind	502
+in	503
+in	504
+lying around	504
+in	505
+on	505
+in	506
+lying around	506
+in	509
+underneath	510
+in	511
+in	512
+of	512
+underneath	512
+underneath	513
+in	514
+in	516
+in	518
+in	520
+in	521
+in	523
+in front of	524
+in	527
+in	528
+of	528
+in	529
+in front of	530
+in	533
+near	533
+distant	533
+in front of	535
+in	537
+in	539
+in	541
+in front of	542
+behind	543
+in front of	544
+behind	545
+in front of	546
+attached	546
+in front of	547
+in front of	548
+in front of	549
+leaning against	550
+in front of	551
+at	552
+in	552
+under	552
+leaning on	553
+in front of	554
+in	556
+in the distance	557
+outside	558
+in	558
+in front of	559
+in	559
+in	560
+in front of	561
+in front of	562
+in front of	563
+in front of	564
+in front of	565
+next to	567
+on	567
+in the centre	568
+on the left	569
+next to	569
+on	569
+above	569
+on	570
+on the right	571
+on the left	572
+before	572
+in front of	573
+on	573
+above	573
+in front of	574
+at	575
+at each side	576
+in the centre	577
+in front of	578
+below	579
+in between	580
+on the right	581
+at the back	582
+to the left	584
+to the right	585
+on the left	586
+at the back	586
+on each side	588
+in front	589
+in	590
+on the left	591
+in the centre	591
+below	592
+on the right	593
+in	594
+on	595
+in front of	597
+in	599
