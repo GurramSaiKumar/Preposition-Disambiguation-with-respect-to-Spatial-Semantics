@@ -82,6 +82,7 @@ lis.append("compound:prt")
 lis.append("compound")
 lis.append("dobj")
 lis.append("parataxis")
+
 df3=open("features_si_3.txt","w")
 count=1  
 for i in sents:

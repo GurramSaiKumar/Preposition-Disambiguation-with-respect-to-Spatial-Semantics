@@ -10,7 +10,7 @@ rrp.load_reranker_model('/home/sai/.local/share/bllipparser/WSJ-PTB3/reranker/fe
 #sd = StanfordDependencies.get_instance(backend='subprocess')
 
 
-with open('/home/sai/Downloads/setall.txt',"r") as fr:
+with open('/home/sai/Downloads/testsetlines.txt',"r") as fr:
     sents=list(fr)
 
 grammar = r"""
@@ -42,9 +42,9 @@ grammar = r"""
 def foo(s):
     return str(s)
 
-with open('lm_data.txt',"w") as fn:
-    with open ('si_data.txt', "w") as fp:
-        with open ('tr_data.txt', "w") as ft:
+with open('lm_data_test.txt',"w") as fn:
+    with open ('si_data_test.txt', "w") as fp:
+        with open ('tr_data_test.txt', "w") as ft:
             in_list=[]
             cp = nltk.RegexpParser(grammar)
             sent_count=0

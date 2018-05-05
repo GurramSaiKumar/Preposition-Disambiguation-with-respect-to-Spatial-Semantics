@@ -10,7 +10,7 @@ rrp.load_reranker_model('/home/sai/.local/share/bllipparser/WSJ-PTB3/reranker/fe
 #sd = StanfordDependencies.get_instance(backend='subprocess')
 
 
-with open('/home/sai/Desktop/Project/testsetlines.txt',"r") as fr:
+with open('/home/sai/Desktop/Project/set.txt',"r") as fr:
     sents=list(fr)
 
 grammar = r"""
@@ -45,7 +45,7 @@ def foo(s):
 
 d={}
 years_dict = dict()
-with open("lm_data_test.txt","r") as op1:
+with open("tr_data.txt","r") as op1:
   for l in op1:
     tok=l.split()
     if tok[0] in years_dict:
@@ -81,7 +81,7 @@ lis.append("compound:prt")
 lis.append("compound")
 lis.append("dobj")
 lis.append("parataxis")
-df3=open("features_tr_test_3.txt","w")
+df3=open("features1_tr_3.txt","w")
 count=1  
 for i in sents:
   flag=1
@@ -93,24 +93,21 @@ for i in sents:
   # for io in years_dict[str(count)]:
   #   print(io)
   # count=count+1
-  flag=dict()
   if str(count) in years_dict:
     for io in years_dict[str(count)]:
       for l in lis:
         f=0
         for node in sents1:
-          if not node.deprel in flag:
-            if (node.deprel == l) and ((sents1[node.head - 1].form if node.head != 0 else 'ROOT') == io):
-              f=1
-              flag[node.deprel]=[1]
-              print("1", end = " ", file=df3)
+          if (node.deprel == l) and ((sents1[node.head - 1].form if node.head != 0 else 'ROOT') == io):
+            f=1
+            print("1", end = " ", file=df3)
         if not f:
           print("0", end = " ",file=df3)
       print(file=df3)
-      flag=dict()
     count=count+1
   else:
     count=count+1
+
 
 
       

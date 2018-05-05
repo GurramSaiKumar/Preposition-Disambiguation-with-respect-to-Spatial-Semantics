@@ -17,7 +17,8 @@ with open("/home/sai/Desktop/Project/si_data.txt","r") as rd:
 			a=lmtzr.lemmatize(i)
 			st2=nltk.word_tokenize(i)
 			pos=nltk.pos_tag(st2)
-		print(token[0],a,pos, file=df)
+			tags =  [e[1] for e in pos] 
+		print(token[0],a,', '.join(tags), file=df)
 
 
 

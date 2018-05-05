@@ -71,7 +71,6 @@ lis.append("nmod")
 lis.append("cc")
 lis.append("conj")
 lis.append("root")
-lis.append("nmod")
 lis.append("punct")
 lis.append("det")
 lis.append("nsubjpass")
@@ -95,7 +94,6 @@ for i in sents:
   # for io in years_dict[str(count)]:
   #   print(io)
   # count=count+1
-  
   if str(count) in years_dict:
     for io in years_dict[str(count)]:
       for l in lis:
@@ -110,6 +108,7 @@ for i in sents:
     count=count+1
   else:
     count=count+1
+
 
 
 

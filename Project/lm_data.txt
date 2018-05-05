@@ -303,7 +303,7 @@
 175 background
 176 front
 176 wall
-176 children
+176 paintings
 177 lots
 177 drawers
 177 drawers

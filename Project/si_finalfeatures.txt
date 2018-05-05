@@ -1,920 +1,920 @@
-1 About [('About', 'IN')] 20 null 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-1 in [('in', 'IN')] traditional kids 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-1 on [('on', 'IN')] stairs waiting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-2 with [('with', 'IN')] gate wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-2 in [('in', 'IN')] the gate 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-3 that [('that', 'IN')] plants saying 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-3 on [('on', 'IN')] the up 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-4 in [('in', 'IN')] the hole 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-4 by [('by', 'IN')] sand surrounded 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-5 in [('in', 'IN')] a man 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-6 in [('in', 'IN')] the columns 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-7 in [('in', 'IN')] front trees 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-7 of [('of', 'IN')] the front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-8 in [('in', 'IN')] front parked 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-8 of [('of', 'IN')] the front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-9 over [('over', 'IN')] the walking 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-10 on [('on', 'IN')] the building 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-10 in [('in', 'IN')] centre tree 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-10 of [('of', 'IN')] picture centre 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-10 in [('in', 'IN')] centre tree 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-10 at [('at', 'IN')] a street 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-10 of [('of', 'IN')] picture centre 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-11 in [('in', 'IN')] a umbrellas 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-11 on [('on', 'IN')] the park 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-12 through [('through', 'IN')] the walking 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-12 in [('in', 'IN')] the road 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-13 with [('with', 'IN')] spread statue 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-13 on [('on', 'IN')] a arms 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-14 from [('from', 'IN')] behind taken 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-15 on [('on', 'IN')] the trees 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-17 in [('in', 'IN')] the clouds 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-18 of [('of', 'IN')] a View 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-18 with [('with', 'IN')] many city 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-19 in [('in', 'IN')] the stadium 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-20 in [('in', 'IN')] the waterfall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-20 of [('of', 'IN')] the middle 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-21 with [('with', 'IN')] pool view 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-21 of [('of', 'IN')] dirty pool 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-21 in [('in', 'IN')] the water 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-22 in [('in', 'IN')] a man 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-22 on [('on', 'IN')] a waterfalls 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-22 in [('in', 'IN')] a man 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-23 in [('in', 'IN')] the sky 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-24 of [('of', 'IN')] giant View 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-24 over [('over', 'IN')] a waterfalls 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-25 in [('in', 'IN')] a clouds 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-25 in [('in', 'IN')] a clouds 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-26 with [('with', 'IN')] high dam 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-27 with [('with', 'IN')] white sky 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-27 in [('in', 'IN')] the clouds 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-28 among [('among', 'IN')] them , 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-28 with [('with', 'IN')] colourful street 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-28 in [('in', 'IN')] front parked 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-28 of [('of', 'IN')] it front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-28 on [('on', 'IN')] both houses 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-30 in [('in', 'IN')] the people 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-30 in [('in', 'IN')] the people 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-31 with [('with', 'IN')] pinnacles towers 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-32 with [('with', 'IN')] windows tower 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-32 with [('with', 'IN')] windows tower 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-33 on [('on', 'IN')] top cross 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-34 of [('of', 'IN')] an View 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-34 of [('of', 'IN')] an View 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-34 in [('in', 'IN')] the alleys 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-35 in [('in', 'IN')] the still 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-35 in [('in', 'IN')] the still 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-36 in [('in', 'IN')] the towers 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-36 in [('in', 'IN')] the towers 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-37 from [('from', 'IN')] the view 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-37 with [('with', 'IN')] the , 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-37 of [('of', 'IN')] a town 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-37 in [('in', 'IN')] the city 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-38 of [('of', 'IN')] a photograph 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-38 at [('at', 'IN')] sunset beach 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-39 in [('in', 'IN')] the clouds 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-40 at [('at', 'IN')] the people 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-40 in [('in', 'IN')] the trees 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-41 with [('with', 'IN')] many building 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-42 on [('on', 'IN')] top waving 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-42 of [('of', 'IN')] the top 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-43 in [('in', 'IN')] the palms 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-43 in [('in', 'IN')] the palms 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-44 in [('in', 'IN')] a ship 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-45 at [('at', 'IN')] the Paraguay 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-45 of [('of', 'IN')] Paraguay flag 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-46 in [('in', 'IN')] the sky 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-47 of [('of', 'IN')] a buildings 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-47 with [('with', 'IN')] many building 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-47 in [('in', 'IN')] the sky 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-49 in [('in', 'IN')] the trees 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-50 on [('on', 'IN')] a sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-50 in [('in', 'IN')] a bench 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-50 on [('on', 'IN')] a sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-51 of [('of', 'IN')] them one 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-53 of [('of', 'IN')] a photograph 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-53 in [('in', 'IN')] the gate 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-53 with [('with', 'IN')] towers , 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-54 in [('in', 'IN')] the trees 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-54 in [('in', 'IN')] the trees 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-55 of [('of', 'IN')] the view 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-56 with [('with', 'IN')] flags towers 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-56 on [('on', 'IN')] top cross 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-57 on [('on', 'IN')] the clock 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-58 at [('at', 'IN')] the streetlamps 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-60 in [('in', 'IN')] the walkway 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-60 in [('in', 'IN')] the walkway 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-61 on [('on', 'IN')] the trees 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-62 with [('with', 'IN')] lots building 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-62 of [('of', 'IN')] columns lots 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-62 in [('in', 'IN')] the bushes 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-63 at [('at', 'IN')] the waving 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-63 of [('of', 'IN')] Paraguay flag 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-64 on [('on', 'IN')] the bed 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-67 of [('of', 'IN')] glass made 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-69 in [('in', 'IN')] the rails 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-70 on [('on', 'IN')] the tree 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-71 on [('on', 'IN')] the shops 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-71 on [('on', 'IN')] the shops 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-72 on [('on', 'IN')] the walking 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-73 along [('along', 'IN')] the parked 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-73 of [('of', 'IN')] the side 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-74 on [('on', 'IN')] the up 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-75 for [('for', 'IN')] customers waiting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-76 behind [('behind', 'IN')] them trees 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-77 on [('on', 'IN')] a chairs 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-77 in [('in', 'IN')] the terrace 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-78 in [('in', 'IN')] the houses 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-79 on [('on', 'IN')] a flags 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-79 in [('in', 'IN')] the lawn 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-80 behind [('behind', 'IN')] it building 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-81 with [('with', 'IN')] a column 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-81 on [('on', 'IN')] top football 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-81 on [('on', 'IN')] top football 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-82 in [('in', 'IN')] the clouds 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-83 of [('of', 'IN')] a view 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-85 on [('on', 'IN')] the off 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-86 in [('in', 'IN')] the reed 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-87 on [('on', 'IN')] a T-shirt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-88 from [('from', 'IN')] behind view 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-89 in [('in', 'IN')] the cheering 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-90 of [('of', 'IN')] tourists Group 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-90 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-90 of [('of', 'IN')] tourists Group 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-91 of [('of', 'IN')] them each 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-92 in [('in', 'IN')] the standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-92 of [('of', 'IN')] all middle 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-93 on [('on', 'IN')] the house 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-94 in [('in', 'IN')] the rocks 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-95 in [('in', 'IN')] the road 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-96 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-96 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-98 of [('of', 'IN')] boys shoulders 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-100 of [('of', 'IN')] them some 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-100 at [('at', 'IN')] the waving 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-103 on [('on', 'IN')] rails standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-103 against [('against', 'IN')] an leaning 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-105 in [('in', 'IN')] the off 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-106 on [('on', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-106 in [('in', 'IN')] front lawn 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-106 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-107 on [('on', 'IN')] a kids 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-107 in [('in', 'IN')] dark dressed 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-107 in [('in', 'IN')] dark dressed 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-108 in [('in', 'IN')] orange dressed 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-109 behind [('behind', 'IN')] them houses 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-109 with [('with', 'IN')] a them 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-109 in [('in', 'IN')] the hill 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-110 at [('at', 'IN')] table sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-110 in [('in', 'IN')] the table 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-110 of [('of', 'IN')] a middle 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-111 on [('on', 'IN')] the books 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-112 from [('from', 'IN')] the away 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-113 from [('from', 'IN')] a drinking 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-113 in [('in', 'IN')] the one 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-113 into [('into', 'IN')] the smiling 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-114 into [('into', 'IN')] the smiling 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-114 in [('in', 'IN')] the camera 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-115 in [('in', 'IN')] the kids 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-115 on [('on', 'IN')] the leaning 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-117 of [('of', 'IN')] them one 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-118 in [('in', 'IN')] a women 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-118 of [('of', 'IN')] them two 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-118 behind [('behind', 'IN')] them standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-119 in [('in', 'IN')] middle Claus 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-120 in [('in', 'IN')] the present 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-121 in [('in', 'IN')] a kids 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-124 on [('on', 'IN')] a alone 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-125 of [('of', 'IN')] them both 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-125 with [('with', 'IN')] ten school 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-128 at [('at', 'IN')] a sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-128 into [('into', 'IN')] the smiling 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-129 in [('in', 'IN')] the kids 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-130 on [('on', 'IN')] a sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-131 in [('in', 'IN')] the women 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-132 in [('in', 'IN')] the one 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-133 with [('with', 'IN')] sunglasses man 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-136 behind [('behind', 'IN')] them standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-137 on [('on', 'IN')] a sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-137 in [('in', 'IN')] front bench 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-138 with [('with', 'IN')] gilets jumpers 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-139 of [('of', 'IN')] them two 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-140 behind [('behind', 'IN')] the standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-141 on [('on', 'IN')] the door 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-141 by [('by', 'IN')] a open 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-142 of [('of', 'IN')] a photo 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-142 into [('into', 'IN')] the waving 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-143 in [('in', 'IN')] the lunch 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-144 with [('with', 'IN')] pictures wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-144 in [('in', 'IN')] the figures 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-145 with [('with', 'IN')] four bag 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-145 of [('of', 'IN')] pasta packs 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-145 on [('on', 'IN')] a powder 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-146 in [('in', 'IN')] the table 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-147 around [('around', 'IN')] a sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-149 on [('on', 'IN')] the bag 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-150 in [('in', 'IN')] the tourists 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-151 of [('of', 'IN')] houses view 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-152 in [('in', 'IN')] the houses 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-152 with [('with', 'IN')] a , 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-152 in [('in', 'IN')] the houses 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-153 of [('of', 'IN')] eleven photo 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-153 behind [('behind', 'IN')] them tourists 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-154 in [('in', 'IN')] the court 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-154 below [('below', 'IN')] the standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-155 in [('in', 'IN')] the mountain 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-156 of [('of', 'IN')] locals Lots 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-156 in [('in', 'IN')] front ) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-156 of [('of', 'IN')] locals Lots 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-158 with [('with', 'IN')] a , 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-159 in [('in', 'IN')] the standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-160 in [('in', 'IN')] the mountains 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-161 in [('in', 'IN')] the workers 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-163 in [('in', 'IN')] a one 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-164 at [('at', 'IN')] the null 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-164 of [('of', 'IN')] the back 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-165 on [('on', 'IN')] the newspapers 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-167 with [('with', 'IN')] a girls 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-167 in [('in', 'IN')] the mountain 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-169 on [('on', 'IN')] the car 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-169 on [('on', 'IN')] the car 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-170 behind [('behind', 'IN')] them street 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-170 on [('on', 'IN')] a houses 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-170 in [('in', 'IN')] the hill 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-171 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-171 of [('of', 'IN')] blackboard front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-171 of [('of', 'IN')] blackboard front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-175 on [('on', 'IN')] the pictures 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-175 in [('in', 'IN')] the wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-176 in [('in', 'IN')] front chairs 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-176 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-176 with [('with', 'IN')] children's full 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-177 with [('with', 'IN')] lots cupboard 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-177 of [('of', 'IN')] drawers lots 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-177 in [('in', 'IN')] a drawers 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-177 at [('at', 'IN')] the corner 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-177 of [('of', 'IN')] drawers lots 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-178 with [('with', 'IN')] the help 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-178 in [('in', 'IN')] a construction 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-179 with [('with', 'IN')] hammer ground 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-180 on [('on', 'IN')] the leaning 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-180 in [('in', 'IN')] the wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-181 in [('in', 'IN')] a posing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-181 of [('of', 'IN')] them ten 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-182 with [('with', 'IN')] them posing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-182 at [('at', 'IN')] a sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-182 of [('of', 'IN')] three out 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-183 at [('at', 'IN')] the pictures 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-184 in [('in', 'IN')] an desks 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-185 of [('of', 'IN')] them two 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-187 in [('in', 'IN')] the windows 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-189 at [('at', 'IN')] round sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-189 of [('of', 'IN')] them all 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-189 for [('for', 'IN')] two except 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-191 on [('on', 'IN')] the maps 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-191 in [('in', 'IN')] the wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-193 in [('in', 'IN')] arm arm 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-195 with [('with', 'IN')] balloons decorated 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-196 on [('on', 'IN')] the picture 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-196 in [('in', 'IN')] the wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-197 with [('with', 'IN')] the house 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-197 in [('in', 'IN')] front around 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-198 in [('in', 'IN')] the houses 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-199 around [('around', 'IN')] a sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-199 of [('of', 'IN')] them each 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-200 on [('on', 'IN')] the comics 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-200 behind [('behind', 'IN')] them wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-201 in [('in', 'IN')] the tyres 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-201 on [('on', 'IN')] the background 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-202 around [('around', 'IN')] 50 and 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-202 on [('on', 'IN')] the pupils 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-202 of [('of', 'IN')] a slope 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-203 in [('in', 'IN')] orange dressed 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-203 of [('of', 'IN')] the half 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-204 at [('at', 'IN')] the trees 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-204 of [('of', 'IN')] the top 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-205 in [('in', 'IN')] the lake 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-206 for [('for', 'IN')] the posing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-206 in [('in', 'IN')] a camera 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-206 at [('at', 'IN')] the standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-206 at [('at', 'IN')] the standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-207 of [('of', 'IN')] them each 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-207 of [('of', 'IN')] them each 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-207 at [('at', 'IN')] the waving 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-208 in [('in', 'IN')] the blackboard 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-209 in [('in', 'IN')] the kid 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-209 of [('of', 'IN')] the centre 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-210 of [('of', 'IN')] the most 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-210 at [('at', 'IN')] theirs sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-211 at [('at', 'IN')] her standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-211 on [('on', 'IN')] the Mouse 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-212 in [('in', 'IN')] the posters 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-213 with [('with', 'IN')] a together 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-213 in [('in', 'IN')] the sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-214 on [('on', 'IN')] the standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-214 at [('at', 'IN')] a looking 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-215 on [('on', 'IN')] the posters 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-215 at [('at', 'IN')] the wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-215 with [('with', 'IN')] a bookshelf 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-215 of [('of', 'IN')] boxes lot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-215 on [('on', 'IN')] the posters 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-216 from [('from', 'IN')] the present 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-216 in [('in', 'IN')] front kneeing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-216 of [('of', 'IN')] him front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-217 around [('around', 'IN')] him are 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-217 at [('at', 'IN')] the looking 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-217 while [('while', 'IN')] the box 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-218 in [('in', 'IN')] the kid 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-219 in [('in', 'IN')] the desks 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-220 through [('through', 'IN')] a browsing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-221 around [('around', 'IN')] her children 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-221 at [('at', 'IN')] the looking 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-222 in [('in', 'IN')] the null 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-222 with [('with', 'IN')] school table 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-222 on [('on', 'IN')] it equipment 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-223 in [('in', 'IN')] the kid 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-224 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-224 of [('of', 'IN')] the front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-224 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-225 above [('above', 'IN')] the clock 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-225 between [('between', 'IN')] the amor 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-225 on [('on', 'IN')] the salud 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-228 at [('at', 'IN')] the shelf 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-228 of [('of', 'IN')] the back 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-229 on [('on', 'IN')] the wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-229 with [('with', 'IN')] a left 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-229 on [('on', 'IN')] the wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-230 of [('of', 'IN')] a photo 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-230 with [('with', 'IN')] a building 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-230 from [('from', 'IN')] the out 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-231 in [('in', 'IN')] front are 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-231 of [('of', 'IN')] the front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-232 of [('of', 'IN')] a View 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-232 in [('in', 'IN')] a city 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-233 in [('in', 'IN')] the roofs 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-234 in [('in', 'IN')] the sky 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-235 at [('at', 'IN')] the standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-235 of [('of', 'IN')] classroom entrance 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-236 of [('of', 'IN')] them all 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-237 of [('of', 'IN')] balloons bunch 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-238 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-238 of [('of', 'IN')] the front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-238 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-239 of [('of', 'IN')] them some 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-239 at [('at', 'IN')] their sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-240 above [('above', 'IN')] the clock 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-240 between [('between', 'IN')] the amor 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-240 on [('on', 'IN')] the salud 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-241 on [('on', 'IN')] the working 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-241 of [('of', 'IN')] a brickwork 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-242 of [('of', 'IN')] the out 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-244 in [('in', 'IN')] front up 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-244 of [('of', 'IN')] the front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-245 in [('in', 'IN')] a desks 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-246 of [('of', 'IN')] them some 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-247 of [('of', 'IN')] trees pictures 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-247 on [('on', 'IN')] the trees 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-247 at [('at', 'IN')] the wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-249 with [('with', 'IN')] a house 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-249 with [('with', 'IN')] a house 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-249 of [('of', 'IN')] them each 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-249 on [('on', 'IN')] each window 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-250 in [('in', 'IN')] the block 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-250 with [('with', 'IN')] three front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-251 in [('in', 'IN')] the roof 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-252 in [('in', 'IN')] the standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-252 of [('of', 'IN')] a classroom 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-252 in [('in', 'IN')] the standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-252 of [('of', 'IN')] a classroom 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-253 above [('above', 'IN')] the Amor 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-254 on [('on', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-254 of [('of', 'IN')] food bags 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-256 with [('with', 'IN')] brick house 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-256 behind [('behind', 'IN')] them doors 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-258 for [('for', 'IN')] a posing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-258 on [('on', 'IN')] a picture 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-259 in [('in', 'IN')] the kid 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-260 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-261 with [('with', 'IN')] a jumper 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-262 in [('in', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-263 in [('in', 'IN')] the kids 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-264 with [('with', 'IN')] three tee-shirt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-264 of [('of', 'IN')] a portrait 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-264 in [('in', 'IN')] the flag 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-264 of [('of', 'IN')] a portrait 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-264 on [('on', 'IN')] it heart 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-265 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-265 with [('with', 'IN')] a blouse 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-266 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-266 on [('on', 'IN')] the sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-267 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-268 with [('with', 'IN')] pink tee-shirt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-268 on [('on', 'IN')] the kneeing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-269 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-269 with [('with', 'IN')] paintings jumper 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-269 of [('of', 'IN')] dogs paintings 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-270 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-271 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-271 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-272 on [('on', 'IN')] a sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-272 with [('with', 'IN')] a pullover 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-273 below [('below', 'IN')] a shirt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-274 below [('below', 'IN')] a shirt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-275 with [('with', 'IN')] a blouse 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-276 on [('on', 'IN')] the handprints 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-276 behind [('behind', 'IN')] her wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-277 at [('at', 'IN')] the pointing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-278 of [('of', 'IN')] a arms 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-280 on [('on', 'IN')] the handprints 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-280 in [('in', 'IN')] the wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-281 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-281 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-281 of [('of', 'IN')] red front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-282 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-283 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-283 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-284 in [('in', 'IN')] the bucket 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-285 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-285 with [('with', 'IN')] orange jumper 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-285 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-285 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-286 on [('on', 'IN')] a pictures 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-286 in [('in', 'IN')] the wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-287 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-288 with [('with', 'IN')] a blouse 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-289 on [('on', 'IN')] the handprints 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-289 behind [('behind', 'IN')] her wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-290 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-291 in [('in', 'IN')] front tables 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-291 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-291 in [('in', 'IN')] front tables 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-292 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-292 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-292 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-293 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-294 at [('at', 'IN')] a sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-294 in [('in', 'IN')] front desk 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-294 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-295 with [('with', 'IN')] a blouse 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-296 with [('with', 'IN')] a jumper 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-296 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-296 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-297 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-297 on [('on', 'IN')] green sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-298 on [('on', 'IN')] the handprints 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-298 behind [('behind', 'IN')] her wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-299 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-299 on [('on', 'IN')] a sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-300 on [('on', 'IN')] the handprints 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-300 behind [('behind', 'IN')] him wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-301 at [('at', 'IN')] a sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-301 with [('with', 'IN')] an pullover 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-302 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-303 in [('in', 'IN')] the bricks 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-304 in [('in', 'IN')] dark boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-304 in [('in', 'IN')] dark boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-304 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-304 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-305 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-305 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-305 of [('of', 'IN')] grey front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-306 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-307 in [('in', 'IN')] the boulders 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-308 in [('in', 'IN')] red girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-309 in [('in', 'IN')] background boulders 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-311 of [('of', 'IN')] boulders made 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-311 in [('in', 'IN')] the boulders 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-312 at [('at', 'IN')] the USA 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-313 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-313 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-314 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-314 at [('at', 'IN')] a sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-316 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-316 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-317 with [('with', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-317 in [('in', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-317 in [('in', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-317 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-318 at [('at', 'IN')] a sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-318 in [('in', 'IN')] front desk 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-318 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-319 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-319 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-319 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-319 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-321 in [('in', 'IN')] the classmates 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-322 in [('in', 'IN')] a desk 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-323 on [('on', 'IN')] the figures 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-323 in [('in', 'IN')] the wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-325 in [('in', 'IN')] a desk 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-325 in [('in', 'IN')] a desk 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-325 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-326 at [('at', 'IN')] a sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-326 in [('in', 'IN')] front desk 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-326 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-327 in [('in', 'IN')] black boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-328 in [('in', 'IN')] the sky 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-329 in [('in', 'IN')] black girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-329 at [('at', 'IN')] a sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-329 outside [('outside', 'IN')] the desk 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-330 at [('at', 'IN')] the walls 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-331 on [('on', 'IN')] the standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-331 on [('on', 'IN')] the standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-332 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-332 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-332 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-333 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-333 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-333 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-334 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-334 with [('with', 'IN')] a jumper 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-334 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-334 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-335 in [('in', 'IN')] grey boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-335 in [('in', 'IN')] grey boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-336 in [('in', 'IN')] the man 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-337 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-337 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-338 in [('in', 'IN')] the kids 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-338 at [('at', 'IN')] the looking 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-339 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-339 at [('at', 'IN')] a sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-339 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-340 in [('in', 'IN')] the eating 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-340 along [('along', 'IN')] the walking 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-341 in [('in', 'IN')] pink girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-341 on [('on', 'IN')] it Simpson 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-341 in [('in', 'IN')] pink girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-341 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-341 in [('in', 'IN')] pink girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-342 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-342 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-343 in [('in', 'IN')] the boys 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-344 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-344 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-345 in [('in', 'IN')] the kids 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-346 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-346 at [('at', 'IN')] a sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-346 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-347 of [('of', 'IN')] paper sheets 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-347 on [('on', 'IN')] the lying 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-347 in [('in', 'IN')] front desk 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-347 of [('of', 'IN')] paper sheets 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-348 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-348 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-349 in [('in', 'IN')] the desk 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-350 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-350 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-351 at [('at', 'IN')] a sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-351 behind [('behind', 'IN')] him desk 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-352 on [('on', 'IN')] the figures 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-352 in [('in', 'IN')] the wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-353 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-354 of [('of', 'IN')] a half 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-354 on [('on', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-355 in [('in', 'IN')] the wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-356 between [('between', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-356 in [('in', 'IN')] white girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-357 underneath [('underneath', 'NN')] a shirt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-357 in [('in', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-358 in [('in', 'IN')] the working 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-359 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-359 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-360 between [('between', 'IN')] two in 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-360 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-361 on [('on', 'IN')] the poster 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-361 in [('in', 'IN')] the wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-363 with [('with', 'IN')] a pullover 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-363 at [('at', 'IN')] the head 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-364 in [('in', 'IN')] a desk 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-365 behind [('behind', 'IN')] him sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-366 on [('on', 'IN')] the bienvenidos 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-367 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-367 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-368 on [('on', 'IN')] a poster 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-368 behind [('behind', 'IN')] him wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-369 of [('of', 'IN')] a picture 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-369 on [('on', 'IN')] the sunflower 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-370 with [('with', 'IN')] an cap 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-370 on [('on', 'IN')] it A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-370 on [('on', 'IN')] it A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-372 in [('in', 'IN')] the garbage 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-373 underneath [('underneath', 'NN')] a shirt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-373 in [('in', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-374 in [('in', 'IN')] the kids 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-375 underneath [('underneath', 'NN')] a shirt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-375 with [('with', 'IN')] a pullover 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-375 in [('in', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-376 in [('in', 'IN')] the kids 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-377 in [('in', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-378 in [('in', 'IN')] the desk 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-379 on [('on', 'IN')] the characters 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-379 at [('at', 'IN')] the wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-380 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-380 with [('with', 'IN')] a sweater 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-380 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-381 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-381 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-382 in [('in', 'IN')] a kid 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-382 behind [('behind', 'IN')] him right 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-383 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-383 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-384 with [('with', 'IN')] pink backpack 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-384 in [('in', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-385 in [('in', 'IN')] the girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-386 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-386 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-387 in [('in', 'IN')] a desk 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-388 in [('in', 'IN')] grey girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-388 at [('at', 'IN')] a sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-388 in [('in', 'IN')] grey girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-389 in [('in', 'IN')] her standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-389 in [('in', 'IN')] her standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-390 in [('in', 'IN')] the blackboard 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-391 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-391 with [('with', 'IN')] a jumper 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-391 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-392 behind [('behind', 'IN')] him standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-393 in [('in', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-394 in [('in', 'IN')] a hair 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-394 in [('in', 'IN')] a hair 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-395 behind [('behind', 'IN')] her null 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-395 with [('with', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-396 in [('in', 'IN')] the desk 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-397 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-397 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-398 of [('of', 'IN')] paper sheets 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-398 on [('on', 'IN')] the paper 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-399 in [('in', 'IN')] the standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-400 in [('in', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-401 behind [('behind', 'IN')] her right 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-402 in [('in', 'IN')] the desk 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-403 on [('on', 'IN')] the wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-404 in [('in', 'IN')] a sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-405 on [('on', 'IN')] a figures 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-405 in [('in', 'IN')] the wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-406 in [('in', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-407 in [('in', 'IN')] the desks 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-408 in [('in', 'IN')] the blackboard 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-409 with [('with', 'IN')] long girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-409 in [('in', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-410 in [('in', 'IN')] the her 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-411 with [('with', 'IN')] a pullover 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-411 in [('in', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-412 in [('in', 'IN')] the kids 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-413 in [('in', 'IN')] the blackboard 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-414 with [('with', 'IN')] blue tee-shirt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-414 at [('at', 'IN')] the spot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-414 in [('in', 'IN')] grey boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-415 in [('in', 'IN')] the blackboard 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-416 with [('with', 'IN')] long girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-416 in [('in', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-418 in [('in', 'IN')] the desks 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-419 with [('with', 'IN')] dark girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-419 in [('in', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-419 in [('in', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-420 in [('in', 'IN')] the desks 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-421 in [('in', 'IN')] grey girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-421 in [('in', 'IN')] grey girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-422 in [('in', 'IN')] the blackboard 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-425 in [('in', 'IN')] the rocks 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-428 in [('in', 'IN')] the rocks 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-429 on [('on', 'IN')] the sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-430 in [('in', 'IN')] the rocks 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-431 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-432 in [('in', 'IN')] the rocks 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-433 in [('in', 'IN')] the hills 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-436 in [('in', 'IN')] the boulders 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-438 with [('with', 'IN')] stones scenery 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-439 in [('in', 'IN')] blue boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-441 in [('in', 'IN')] the rocks 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-442 in [('in', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-443 in [('in', 'IN')] the blackboard 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-444 with [('with', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-444 with [('with', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-444 in [('in', 'IN')] the sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-445 in [('in', 'IN')] the boulders 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-446 with [('with', 'IN')] two girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-446 in [('in', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-447 in [('in', 'IN')] the ) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-448 with [('with', 'IN')] two girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-448 with [('with', 'IN')] two girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-448 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-448 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-450 in [('in', 'IN')] the blackboard 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-451 with [('with', 'IN')] a shirt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-451 in [('in', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-452 in [('in', 'IN')] the blackboard 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-454 in [('in', 'IN')] the rocks 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-455 on [('on', 'IN')] the blue 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-455 in [('in', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-456 in [('in', 'IN')] the kids 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-457 in [('in', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-458 in [('in', 'IN')] the blackboard 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-459 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-459 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-459 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-461 in [('in', 'IN')] a kid 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-461 behind [('behind', 'IN')] him right 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-462 in [('in', 'IN')] the kids 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-463 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-464 on [('on', 'IN')] the plane 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-465 with [('with', 'IN')] stones landscape 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-465 in [('in', 'IN')] the rocks 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-467 in [('in', 'IN')] the rocks 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-469 with [('with', 'IN')] stones landscape 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-469 in [('in', 'IN')] the rocks 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-470 with [('with', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-471 in [('in', 'IN')] the desert 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-472 in [('in', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-473 in [('in', 'IN')] the rocks 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-475 in [('in', 'IN')] the stones 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-477 with [('with', 'IN')] very background 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-479 of [('of', 'IN')] bushes couple 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-479 in [('in', 'IN')] the houses 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-479 with [('with', 'IN')] a one 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-479 with [('with', 'IN')] a one 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-480 with [('with', 'IN')] long girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-485 with [('with', 'IN')] a ( 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-485 on [('on', 'IN')] it woodpecker 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-486 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-486 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-487 on [('on', 'IN')] the black 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-488 of [('of', 'IN')] a wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-488 on [('on', 'IN')] the house 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-488 with [('with', 'IN')] some house 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-488 on [('on', 'IN')] the house 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-488 in [('in', 'IN')] the left 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-489 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-489 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-490 with [('with', 'IN')] a cap 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-491 of [('of', 'IN')] a portrait 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-493 in [('in', 'IN')] distance trees 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-494 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-494 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-495 with [('with', 'IN')] a jumper 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-495 in [('in', 'IN')] the standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-496 with [('with', 'IN')] a house 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-496 in [('in', 'IN')] the roof 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-499 in [('in', 'IN')] the houses 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-499 with [('with', 'IN')] a one 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-500 of [('of', 'IN')] rocks couple 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-500 in [('in', 'IN')] the around 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-500 behind [('behind', 'IN')] the just 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-501 in [('in', 'IN')] the standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-501 behind [('behind', 'IN')] a meadow 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-502 in [('in', 'IN')] the stones 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-503 in [('in', 'IN')] a cardigan 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-503 behind [('behind', 'IN')] a meadow 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-504 in [('in', 'IN')] the standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-505 in [('in', 'IN')] the around 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-506 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-506 with [('with', 'IN')] a ( 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-506 on [('on', 'IN')] it bear 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-506 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-507 in [('in', 'IN')] the around 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-510 in [('in', 'IN')] the garbage 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-512 in [('in', 'IN')] the , 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-512 of [('of', 'IN')] a backyard 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-513 with [('with', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-513 underneath [('underneath', 'NN')] a vest 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-513 in [('in', 'IN')] the , 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-513 of [('of', 'IN')] a backyard 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-515 in [('in', 'IN')] background grass 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-517 in [('in', 'IN')] the grass 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-519 in [('in', 'IN')] the grass 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-521 in [('in', 'IN')] the houses 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-521 with [('with', 'IN')] a one 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-521 with [('with', 'IN')] a one 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-522 in [('in', 'IN')] the stones 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-524 with [('with', 'IN')] some , 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-524 in [('in', 'IN')] the grass 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-525 with [('with', 'IN')] a jumper 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-525 in [('in', 'IN')] front , 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-525 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-528 in [('in', 'IN')] background sky 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-529 in [('in', 'IN')] the standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-529 of [('of', 'IN')] a backyard 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-530 with [('with', 'IN')] a house 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-530 in [('in', 'IN')] the fence 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-531 in [('in', 'IN')] front bag 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-531 of [('of', 'IN')] the front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-532 with [('with', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-534 in [('in', 'IN')] near trees 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-536 with [('with', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-536 in [('in', 'IN')] front , 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-536 of [('of', 'IN')] a portrait 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-536 of [('of', 'IN')] a portrait 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-538 in [('in', 'IN')] the garbage 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-539 with [('with', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-540 in [('in', 'IN')] background grass 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-542 in [('in', 'IN')] the grass 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-543 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-543 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-544 behind [('behind', 'IN')] hills sunset 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-545 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-545 in [('in', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-545 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-546 behind [('behind', 'IN')] a sunset 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-547 with [('with', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-547 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-547 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-547 with [('with', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-548 in [('in', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-548 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-548 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-549 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-549 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-549 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-550 with [('with', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-550 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-550 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-550 with [('with', 'IN')] a girl 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-551 against [('against', 'IN')] a leaning 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-552 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-552 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-553 under [('under', 'IN')] a shirt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-553 with [('with', 'IN')] a vest 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-553 at [('at', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-554 with [('with', 'IN')] a jumper 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-554 on [('on', 'IN')] a leaning 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-555 with [('with', 'IN')] a anorak 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-555 in [('in', 'IN')] front zip 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-555 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-557 with [('with', 'IN')] little landscape 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-557 in [('in', 'IN')] the grass 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-558 of [('of', 'IN')] a roof 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-558 in [('in', 'IN')] the range 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-559 outside [('outside', 'IN')] a standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-560 with [('with', 'IN')] a boy 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-560 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-560 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-561 in [('in', 'IN')] the roofs 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-562 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-563 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-564 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-564 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-565 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-565 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-566 with [('with', 'IN')] a cap 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-566 in [('in', 'IN')] front standing 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-566 of [('of', 'IN')] a front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-567 of [('of', 'IN')] silk made 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-569 of [('of', 'IN')] a view 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-569 with [('with', 'IN')] a room 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-569 in [('in', 'IN')] the bed 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-570 on [('on', 'IN')] the mirror 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-570 with [('with', 'IN')] a table 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-570 on [('on', 'IN')] the mirror 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-570 above [('above', 'IN')] the wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-571 in [('in', 'IN')] white man 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-571 on [('on', 'IN')] a sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-571 on [('on', 'IN')] a sitting 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-572 on [('on', 'IN')] the null 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-573 on [('on', 'IN')] the null 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-573 before [('before', 'IN')] the ( 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-573 with [('with', 'IN')] flowers vase 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-574 in [('in', 'IN')] front brief-case 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-574 of [('of', 'IN')] the front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-574 on [('on', 'IN')] the hanging 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-574 above [('above', 'IN')] the wall 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-575 in [('in', 'IN')] front parking 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-575 of [('of', 'IN')] the front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-576 at [('at', 'IN')] the stairs 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-577 at [('at', 'IN')] each lamp 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-577 of [('of', 'IN')] the side 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-578 with [('with', 'IN')] a courtyard 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-578 in [('in', 'IN')] the pots 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-579 on [('on', 'IN')] two courtyard 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-579 in [('in', 'IN')] front levels 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-579 of [('of', 'IN')] the front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-579 with [('with', 'IN')] a building 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-581 of [('of', 'IN')] a view 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-581 with [('with', 'IN')] two room 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-582 on [('on', 'IN')] the null 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-583 at [('at', 'IN')] the window 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-584 inside [('inside', 'IN')] photograph null 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-584 of [('of', 'IN')] a photograph 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-584 with [('with', 'IN')] a room 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-587 with [('with', 'IN')] a armchairs 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-587 on [('on', 'IN')] the table 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-587 at [('at', 'IN')] the left 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-589 on [('on', 'IN')] each pot 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-589 of [('of', 'IN')] the side 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-590 in [('in', 'IN')] front flags 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-591 in [('in', 'IN')] the sky 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-592 of [('of', 'IN')] a view 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-592 with [('with', 'IN')] stairs , 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-592 of [('of', 'IN')] a view 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-592 on [('on', 'IN')] the floor 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-592 in [('in', 'IN')] the windows 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-593 of [('of', 'IN')] the entrance 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-594 on [('on', 'IN')] the houses 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-595 in [('in', 'IN')] the sky 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-596 of [('of', 'IN')] a view 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-596 with [('with', 'IN')] white room 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-596 on [('on', 'IN')] it lamp 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-598 in [('in', 'IN')] front street 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
-598 of [('of', 'IN')] the front 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-599 of [('of', 'IN')] glass made 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-600 in [('in', 'IN')] the pool 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+1 About IN 20 CD null null 0
+1 in IN traditional JJ kids NNS 0
+1 on IN stairs NNS waiting VBG 1
+2 with IN gate NN wall NN 0
+2 in IN the DT gate NN 1
+3 that IN plants NNS saying VBG 0
+3 on IN the DT up RB 1
+4 in IN the DT hole NN 1
+4 by IN sand NN surrounded VBD 1
+5 in IN a DT man NN 0
+6 in IN the DT columns NN 1
+7 in IN front NN trees NNS 1
+7 of IN the DT front NN 0
+8 in IN front NN parked VBN 1
+8 of IN the DT front NN 0
+9 over IN the DT walking VBG 1
+10 on IN the DT building NN 1
+10 in IN centre NN tree NN 1
+10 of IN picture NN centre NN 0
+10 in IN centre NN tree NN 1
+10 at IN a DT street NN 1
+10 of IN picture NN centre NN 0
+11 in IN a DT umbrellas NNS 1
+11 on IN the DT park NN 1
+12 through IN the DT walking VBG 1
+12 in IN the DT road NN 1
+13 with IN spread NN statue NN 0
+13 on IN a DT arms NNS 1
+14 from IN behind IN taken VBN 0
+15 on IN the DT trees NNS 1
+17 in IN the DT clouds NNS 1
+18 of IN a DT View NN 0
+18 with IN many JJ city NN 0
+19 in IN the DT stadium NN 1
+20 in IN the DT waterfall NN 1
+20 of IN the DT middle NN 0
+21 with IN pool NN view NN 0
+21 of IN dirty NN pool NN 0
+21 in IN the DT water NN 1
+22 in IN a DT man NN 1
+22 on IN a DT waterfalls NNS 1
+22 in IN a DT man NN 1
+23 in IN the DT sky NN 1
+24 of IN giant NN View NN 0
+24 over IN a DT waterfalls NNS 1
+25 in IN a DT clouds NNS 1
+25 in IN a DT clouds NNS 1
+26 with IN high JJ dam NN 0
+27 with IN white JJ sky NN 0
+27 in IN the DT clouds NNS 1
+28 among IN them PRP null null 1
+28 with IN colourful NN street NN 0
+28 in IN front NN parked VBN 1
+28 of IN it PRP front NN 0
+28 on IN both DT houses NNS 1
+30 in IN the DT people NNS 1
+30 in IN the DT people NNS 1
+31 with IN pinnacles NNS towers NNS 0
+32 with IN windows NNS tower NN 0
+32 with IN windows NNS tower NN 0
+33 on IN top NN cross NN 1
+34 of IN an DT View NN 0
+34 of IN an DT View NN 0
+34 in IN the DT alleys NNS 1
+35 in IN the DT still RB 1
+35 in IN the DT still RB 1
+36 in IN the DT towers NNS 1
+36 in IN the DT towers NNS 1
+37 from IN the DT view NN 0
+37 with IN the DT null null 0
+37 of IN a DT town NN 0
+37 in IN the DT city NN 1
+38 of IN a DT photograph NN 0
+38 at IN sunset NN beach NN 0
+39 in IN the DT clouds NNS 1
+40 at IN the DT people NNS 1
+40 in IN the DT trees NNS 1
+41 with IN many JJ building NN 0
+42 on IN top NN waving VBG 1
+42 of IN the DT top NN 0
+43 in IN the DT palms NNS 1
+43 in IN the DT palms NNS 1
+44 in IN a DT ship NN 1
+45 at IN the DT Paraguay NN 1
+45 of IN Paraguay NN flag NN 0
+46 in IN the DT sky NN 1
+47 of IN a DT buildings NNS 0
+47 with IN many JJ building NN 0
+47 in IN the DT sky NN 1
+49 in IN the DT trees NNS 1
+50 on IN a DT sitting VBG 1
+50 in IN a DT bench NN 1
+50 on IN a DT sitting VBG 1
+51 of IN them PRP one CD 0
+53 of IN a DT photograph NN 0
+53 in IN the DT gate NN 1
+53 with IN towers NNS null null 0
+54 in IN the DT trees NNS 1
+54 in IN the DT trees NNS 1
+55 of IN the DT view NN 0
+56 with IN flags NNS towers NNS 0
+56 on IN top NN cross NN 1
+57 on IN the DT clock NN 1
+58 at IN the DT streetlamps NNS 1
+60 in IN the DT walkway NN 1
+60 in IN the DT walkway NN 1
+61 on IN the DT trees NNS 1
+62 with IN lots NNS building NN 0
+62 of IN columns NN lots NNS 0
+62 in IN the DT bushes NNS 1
+63 at IN the DT waving VBG 1
+63 of IN Paraguay NN flag NN 0
+64 on IN the DT bed NN 1
+67 of IN glass NN made VBN 0
+69 in IN the DT rails NNS 1
+70 on IN the DT tree NN 1
+71 on IN the DT shops NNS 1
+71 on IN the DT shops NNS 1
+72 on IN the DT walking VBG 1
+73 along IN the DT parked VBN 0
+73 of IN the DT side NN 1
+74 on IN the DT up RB 1
+75 for IN customers NNS waiting VBG 0
+76 behind IN them PRP trees NNS 1
+77 on IN a DT chairs NNS 1
+77 in IN the DT terrace NN 1
+78 in IN the DT houses NNS 1
+79 on IN a DT flags NNS 1
+79 in IN the DT lawn NN 1
+80 behind IN it PRP building NN 1
+81 with IN a DT column NN 0
+81 on IN top NN football NN 1
+81 on IN top NN football NN 1
+82 in IN the DT clouds NNS 1
+83 of IN a DT view NN 0
+85 on IN the DT off IN 1
+86 in IN the DT reed NN 1
+87 on IN a DT T-shirt NN 1
+88 from IN behind IN view NN 0
+89 in IN the DT cheering VBG 1
+90 of IN tourists NNS Group NNP 0
+90 in IN front NN standing VBG 1
+90 of IN tourists NNS Group NNP 0
+91 of IN them PRP each DT 0
+92 in IN the DT standing VBG 1
+92 of IN all DT middle NN 0
+93 on IN the DT house NN 1
+94 in IN the DT rocks NNS 1
+95 in IN the DT road NN 1
+96 in IN front NN standing VBG 1
+96 of IN a DT front NN 0
+98 of IN boys NNS shoulders NNS 0
+100 of IN them PRP some DT 0
+100 at IN the DT waving VBG 0
+103 on IN rails NNS standing VBG 1
+103 against IN an DT leaning VBG 1
+105 in IN the DT off IN 1
+106 on IN a DT standing VBG 1
+106 in IN front NN lawn NN 1
+106 of IN a DT front NN 0
+107 on IN a DT kids NNS 1
+107 in IN dark NN dressed VBN 0
+107 in IN dark NN dressed VBN 0
+108 in IN orange NN dressed VBN 0
+109 behind IN them PRP houses NNS 1
+109 with IN a DT them PRP 0
+109 in IN the DT hill NN 1
+110 at IN table NN sitting VBG 1
+110 in IN the DT table NN 1
+110 of IN a DT middle NN 0
+111 on IN the DT books NNS 1
+112 from IN the DT away RB 0
+113 from IN a DT drinking NN 0
+113 in IN the DT one CD 1
+113 into IN the DT smiling VBG 0
+114 into IN the DT smiling VBG 0
+114 in IN the DT camera NN 1
+115 in IN the DT kids NNS 1
+115 on IN the DT leaning VBG 1
+117 of IN them PRP one CD 0
+118 in IN a DT women NNS 1
+118 of IN them PRP two CD 0
+118 behind IN them PRP standing VBG 1
+119 in IN middle NN Claus NN 1
+120 in IN the DT present NN 1
+121 in IN a DT kids NNS 1
+124 on IN a DT alone RB 1
+125 of IN them PRP both DT 0
+125 with IN ten NNS school NN 0
+128 at IN a DT sitting VBG 1
+128 into IN the DT smiling VBG 0
+129 in IN the DT kids NNS 1
+130 on IN a DT sitting VBG 1
+131 in IN the DT women NNS 1
+132 in IN the DT one CD 1
+133 with IN sunglasses NNS man NN 0
+136 behind IN them PRP standing VBG 1
+137 on IN a DT sitting VBG 1
+137 in IN front NN bench NN 1
+138 with IN gilets NNS jumpers NNS 0
+139 of IN them PRP two CD 0
+140 behind IN the DT standing VBG 1
+141 on IN the DT door NN 1
+141 by IN a DT open JJ 0
+142 of IN a DT photo NN 0
+142 into IN the DT waving VBG 0
+143 in IN the DT lunch NN 1
+144 with IN pictures NNS wall NN 1
+144 in IN the DT figures NNS 1
+145 with IN four CD bag NN 1
+145 of IN pasta NN packs NNS 0
+145 on IN a DT powder NN 1
+146 in IN the DT table NN 1
+147 around IN a DT sitting VBG 1
+149 on IN the DT bag NN 1
+150 in IN the DT tourists NNS 1
+151 of IN houses NNS view NN 0
+152 in IN the DT houses NNS 1
+152 with IN a DT null null 0
+152 in IN the DT houses NNS 1
+153 of IN eleven RB photo NN 0
+153 behind IN them PRP tourists NNS 1
+154 in IN the DT court NN 1
+154 below IN the DT standing VBG 1
+155 in IN the DT mountain NN 1
+156 of IN locals NNS Lots NNS 0
+156 in IN front NN ) ) 1
+156 of IN locals NNS Lots NNS 0
+158 with IN a DT null null 0
+159 in IN the DT standing VBG 1
+160 in IN the DT mountains NNS 1
+161 in IN the DT workers NNS 1
+163 in IN a DT one CD 0
+164 at IN the DT null null 1
+164 of IN the DT back RB 0
+165 on IN the DT newspapers NNS 1
+167 with IN a DT girls NNS 0
+167 in IN the DT mountain NN 1
+169 on IN the DT car NN 1
+169 on IN the DT car NN 1
+170 behind IN them PRP street NN 1
+170 on IN a DT houses NNS 1
+170 in IN the DT hill NN 1
+171 in IN front NN standing VBG 1
+171 of IN blackboard NN front NN 1
+171 of IN blackboard NN front NN 1
+175 on IN the DT pictures NNS 1
+175 in IN the DT wall NN 1
+176 in IN front NN chairs NNS 1
+176 of IN a DT front NN 0
+176 with IN children NNS full JJ 1
+177 with IN lots NNS cupboard NN 1
+177 of IN drawers NNS lots NNS 0
+177 in IN a DT drawers NNS 1
+177 at IN the DT corner NN 1
+177 of IN drawers NNS lots NNS 0
+178 with IN the DT help NN 0
+178 in IN a DT construction NN 1
+179 with IN hammer NN ground NN 0
+180 on IN the DT leaning VBG 1
+180 in IN the DT wall NN 1
+181 in IN a DT posing VBG 1
+181 of IN them PRP ten NNS 0
+182 with IN them PRP posing VBG 0
+182 at IN a DT sitting VBG 1
+182 of IN three CD out IN 0
+183 at IN the DT pictures NNS 1
+184 in IN an DT desks NNS 1
+185 of IN them PRP two CD 0
+187 in IN the DT windows NNS 1
+189 at IN round NN sitting VBG 1
+189 of IN them PRP all DT 0
+189 for IN two CD except IN 0
+191 on IN the DT maps NNS 1
+191 in IN the DT wall NN 1
+193 in IN arm NN arm NN 0
+195 with IN balloons NNS decorated VBN 0
+196 on IN the DT picture NN 1
+196 in IN the DT wall NN 1
+197 with IN the DT house NN 0
+197 in IN front NN around IN 1
+198 in IN the DT houses NNS 1
+199 around IN a DT sitting VBG 1
+199 of IN them PRP each DT 0
+200 on IN the DT comics NNS 1
+200 behind IN them PRP wall NN 1
+201 in IN the DT tyres NNS 1
+201 on IN the DT background NN 1
+202 around IN 50 CD and CC 0
+202 on IN the DT pupils NNS 1
+202 of IN a DT slope NN 0
+203 in IN orange NN dressed VBN 0
+203 of IN the DT half NN 0
+204 at IN the DT trees NNS 1
+204 of IN the DT top NN 0
+205 in IN the DT lake NN 1
+206 for IN the DT posing VBG 0
+206 in IN a DT camera NN 0
+206 at IN the DT standing VBG 1
+206 at IN the DT standing VBG 1
+207 of IN them PRP each DT 0
+207 of IN them PRP each DT 0
+207 at IN the DT waving VBG 0
+208 in IN the DT blackboard NN 1
+209 in IN the DT kid NN 1
+209 of IN the DT centre NN 0
+210 of IN the DT most JJS 0
+210 at IN theirs NNS sitting VBG 1
+211 at IN her PRP$ standing VBG 1
+211 on IN the DT Mouse NN 1
+212 in IN the DT posters NNS 1
+213 with IN a DT together RB 0
+213 in IN the DT sitting VBG 1
+214 on IN the DT standing VBG 1
+214 at IN a DT looking VBG 0
+215 on IN the DT posters NNS 1
+215 at IN the DT wall NN 1
+215 with IN a DT bookshelf NN 0
+215 of IN boxes NNS lot NN 0
+215 on IN the DT posters NNS 1
+216 from IN the DT present NN 0
+216 in IN front NN kneeing VBG 1
+216 of IN him PRP front NN 0
+217 around IN him PRP are VBP 1
+217 at IN the DT looking VBG 0
+217 while IN the DT box NN 0
+218 in IN the DT kid NN 1
+219 in IN the DT desks NNS 1
+220 through IN a DT browsing NN 0
+221 around IN her PRP$ children NNS 1
+221 at IN the DT looking VBG 0
+222 in IN the DT null null 1
+222 with IN school NN table NN 0
+222 on IN it PRP equipment NN 1
+223 in IN the DT kid NN 1
+224 in IN front NN standing VBG 1
+224 of IN the DT front NN 0
+224 in IN front NN standing VBG 1
+225 above IN the DT clock NN 1
+225 between IN the DT amor NN 1
+225 on IN the DT salud NN 1
+228 at IN the DT shelf NN 1
+228 of IN the DT back RB 0
+229 on IN the DT wall NN 1
+229 with IN a DT left NN 0
+229 on IN the DT wall NN 1
+230 of IN a DT photo NN 0
+230 with IN a DT building NN 0
+230 from IN the DT out IN 0
+231 in IN front NN are VBP 1
+231 of IN the DT front NN 0
+232 of IN a DT View NN 0
+232 in IN a DT city NN 1
+233 in IN the DT roofs NN 1
+234 in IN the DT sky NN 1
+235 at IN the DT standing VBG 1
+235 of IN classroom NN entrance NN 0
+236 of IN them PRP all DT 0
+237 of IN balloons NNS bunch NN 0
+238 in IN front NN standing VBG 1
+238 of IN the DT front NN 0
+238 in IN front NN standing VBG 1
+239 of IN them PRP some DT 0
+239 at IN their PRP$ sitting VBG 1
+240 above IN the DT clock NN 1
+240 between IN the DT amor NN 1
+240 on IN the DT salud NN 1
+241 on IN the DT working VBG 0
+241 of IN a DT brickwork NN 0
+242 of IN the DT out IN 1
+244 in IN front NN up RB 1
+244 of IN the DT front NN 0
+245 in IN a DT desks NNS 1
+246 of IN them PRP some DT 0
+247 of IN trees NNS pictures NNS 0
+247 on IN the DT trees NNS 1
+247 at IN the DT wall NN 1
+249 with IN a DT house NN 0
+249 with IN a DT house NN 0
+249 of IN them PRP each DT 0
+249 on IN each DT window NN 1
+250 in IN the DT block NN 1
+250 with IN three CD front NN 0
+251 in IN the DT roof NN 1
+252 in IN the DT standing VBG 1
+252 of IN a DT classroom NN 0
+252 in IN the DT standing VBG 1
+252 of IN a DT classroom NN 0
+253 above IN the DT Amor NN 1
+254 on IN a DT standing VBG 1
+254 of IN food NN bags NNS 0
+256 with IN brick NN house NN 0
+256 behind IN them PRP doors NNS 1
+258 for IN a DT posing VBG 0
+258 on IN a DT picture NN 1
+259 in IN the DT kid NN 1
+260 in IN front NN standing VBG 1
+261 with IN a DT jumper NN 0
+262 in IN a DT standing VBG 1
+263 in IN the DT kids NNS 1
+264 with IN three CD tee-shirt NN 0
+264 of IN a DT portrait NN 0
+264 in IN the DT flag NN 0
+264 of IN a DT portrait NN 0
+264 on IN it PRP heart NN 1
+265 in IN a DT girl NN 0
+265 with IN a DT blouse NN 0
+266 in IN a DT girl NN 0
+266 on IN the DT sitting VBG 1
+267 in IN a DT girl NN 0
+268 with IN pink NN tee-shirt NN 0
+268 on IN the DT kneeing VBG 1
+269 in IN a DT girl NN 0
+269 with IN paintings NNS jumper NN 0
+269 of IN dogs NNS paintings NNS 0
+270 in IN a DT boy NN 0
+271 in IN front NN standing VBG 1
+271 of IN a DT front NN 0
+272 on IN a DT sitting VBG 1
+272 with IN a DT pullover NN 0
+273 below IN a DT shirt NN 0
+274 below IN a DT shirt NN 0
+275 with IN a DT blouse NN 0
+276 on IN the DT handprints NNS 1
+276 behind IN her PRP$ wall NN 1
+277 at IN the DT pointing VBG 0
+278 of IN a DT arms NNS 0
+280 on IN the DT handprints NNS 1
+280 in IN the DT wall NN 1
+281 in IN a DT boy NN 1
+281 in IN a DT boy NN 1
+281 of IN red JJ front NN 0
+282 in IN a DT girl NN 0
+283 in IN front NN standing VBG 1
+283 of IN a DT front NN 0
+284 in IN the DT bucket NN 1
+285 in IN a DT girl NN 1
+285 with IN orange NN jumper NN 0
+285 in IN a DT girl NN 1
+285 of IN a DT front NN 0
+286 on IN a DT pictures NNS 1
+286 in IN the DT wall NN 1
+287 in IN a DT girl NN 0
+288 with IN a DT blouse NN 0
+289 on IN the DT handprints NNS 1
+289 behind IN her PRP$ wall NN 1
+290 in IN a DT boy NN 1
+291 in IN front NN tables NNS 1
+291 of IN a DT front NN 0
+291 in IN front NN tables NNS 1
+292 in IN a DT girl NN 1
+292 in IN a DT girl NN 1
+292 of IN a DT front NN 0
+293 in IN a DT girl NN 0
+294 at IN a DT sitting VBG 1
+294 in IN front NN desk NN 1
+294 of IN a DT front NN 0
+295 with IN a DT blouse NN 0
+296 with IN a DT jumper NN 0
+296 in IN front NN standing VBG 1
+296 of IN a DT front NN 0
+297 in IN a DT girl NN 0
+297 on IN green JJ sitting VBG 1
+298 on IN the DT handprints NNS 1
+298 behind IN her PRP$ wall NN 1
+299 in IN a DT boy NN 0
+299 on IN a DT sitting VBG 1
+300 on IN the DT handprints NNS 1
+300 behind IN him PRP wall NN 1
+301 at IN a DT sitting VBG 1
+301 with IN an DT pullover NN 0
+302 in IN a DT girl NN 1
+303 in IN the DT bricks NNS 1
+304 in IN dark NN boy NN 1
+304 in IN dark NN boy NN 1
+304 of IN a DT front NN 0
+304 of IN a DT front NN 0
+305 in IN a DT girl NN 1
+305 in IN a DT girl NN 1
+305 of IN grey NN front NN 0
+306 in IN a DT girl NN 0
+307 in IN the DT boulders NNS 1
+308 in IN red JJ girl NN 0
+309 in IN background NN boulders NNS 1
+311 of IN boulders NNS made VBN 0
+311 in IN the DT boulders NNS 1
+312 at IN the DT USA NNP 1
+313 in IN front NN standing VBG 1
+313 of IN a DT front NN 0
+314 in IN a DT boy NN 0
+314 at IN a DT sitting VBG 1
+316 in IN front NN standing VBG 1
+316 of IN a DT front NN 0
+317 with IN a DT boy NN 0
+317 in IN a DT standing VBG 1
+317 in IN a DT standing VBG 1
+317 of IN a DT front NN 0
+318 at IN a DT sitting VBG 1
+318 in IN front NN desk NN 1
+318 of IN a DT front NN 0
+319 in IN a DT girl NN 1
+319 in IN a DT girl NN 1
+319 in IN a DT girl NN 1
+319 of IN a DT front NN 0
+321 in IN the DT classmates NNS 1
+322 in IN a DT desk NN 1
+323 on IN the DT figures NNS 1
+323 in IN the DT wall NN 1
+325 in IN a DT desk NN 1
+325 in IN a DT desk NN 1
+325 of IN a DT front NN 0
+326 at IN a DT sitting VBG 1
+326 in IN front NN desk NN 0
+326 of IN a DT front NN 0
+327 in IN black JJ boy NN 0
+328 in IN the DT sky NN 1
+329 in IN black JJ girl NN 0
+329 at IN a DT sitting VBG 1
+329 outside IN the DT desk NN 1
+330 at IN the DT walls NNS 1
+331 on IN the DT standing VBG 1
+331 on IN the DT standing VBG 1
+332 in IN a DT girl NN 1
+332 in IN a DT girl NN 1
+332 of IN a DT front NN 0
+333 in IN a DT boy NN 1
+333 in IN a DT boy NN 1
+333 of IN a DT front NN 0
+334 in IN a DT boy NN 1
+334 with IN a DT jumper NN 0
+334 in IN a DT boy NN 1
+334 of IN a DT front NN 0
+335 in IN grey NN boy NN 1
+335 in IN grey NN boy NN 1
+336 in IN the DT man NN 1
+337 in IN a DT boy NN 1
+337 in IN a DT boy NN 1
+338 in IN the DT kids NNS 1
+338 at IN the DT looking VBG 0
+339 in IN a DT boy NN 1
+339 at IN a DT sitting VBG 1
+339 in IN a DT boy NN 1
+340 in IN the DT eating VBG 1
+340 along IN the DT walking VBG 1
+341 in IN pink NN girl NN 1
+341 on IN it PRP Simpson NN 0
+341 in IN pink NN girl NN 1
+341 of IN a DT front NN 0
+341 in IN pink NN girl NN 1
+342 in IN a DT boy NN 1
+342 in IN a DT boy NN 1
+343 in IN the DT boys NNS 1
+344 in IN a DT girl NN 1
+344 in IN a DT girl NN 1
+345 in IN the DT kids NNS 1
+346 in IN a DT girl NN 1
+346 at IN a DT sitting VBG 1
+346 in IN a DT girl NN 1
+347 of IN paper NN sheets NNS 0
+347 on IN the DT lying VBG 1
+347 in IN front NN desk NN 1
+347 of IN paper NN sheets NNS 0
+348 in IN a DT boy NN 1
+348 in IN a DT boy NN 1
+349 in IN the DT desk NN 1
+350 in IN a DT boy NN 1
+350 in IN a DT boy NN 1
+351 at IN a DT sitting VBG 1
+351 behind IN him PRP desk NN 1
+352 on IN the DT figures NNS 1
+352 in IN the DT wall NN 1
+353 in IN a DT girl NN 0
+354 of IN a DT half NN 0
+354 on IN a DT standing VBG 1
+355 in IN the DT wall NN 1
+356 between IN a DT standing VBG 1
+356 in IN white JJ girl NN 1
+357 underneath NN a DT shirt NN 1
+357 in IN a DT standing VBG 1
+358 in IN the DT working VBG 1
+359 in IN a DT girl NN 1
+359 in IN a DT girl NN 1
+360 between IN two CD in IN 1
+360 in IN a DT boy NN 1
+361 on IN the DT poster NN 1
+361 in IN the DT wall NN 1
+363 with IN a DT pullover NN 0
+363 at IN the DT head NN 1
+364 in IN a DT desk NN 1
+365 behind IN him PRP sitting VBG 1
+366 on IN the DT bienvenidos NN 1
+367 in IN a DT boy NN 1
+367 in IN a DT boy NN 1
+368 on IN a DT poster NN 1
+368 behind IN him PRP wall NN 1
+369 of IN a DT picture NN 0
+369 on IN the DT sunflower NN 1
+370 with IN an DT cap NN 0
+370 on IN it PRP A DT 1
+370 on IN it PRP A DT 1
+372 in IN the DT garbage NN 1
+373 underneath NN a DT shirt NN 1
+373 in IN a DT standing VBG 1
+374 in IN the DT kids NNS 1
+375 underneath NN a DT shirt NN 1
+375 with IN a DT pullover NN 0
+375 in IN a DT standing VBG 1
+376 in IN the DT kids NNS 1
+377 in IN a DT standing VBG 1
+378 in IN the DT desk NN 1
+379 on IN the DT characters NNS 1
+379 at IN the DT wall NN 1
+380 in IN a DT girl NN 1
+380 with IN a DT sweater NN 0
+380 in IN a DT girl NN 1
+381 in IN a DT boy NN 1
+381 in IN a DT boy NN 1
+382 in IN a DT kid NN 0
+382 behind IN him PRP right NN 1
+383 in IN a DT girl NN 1
+383 in IN a DT girl NN 1
+384 with IN pink NN backpack NN 0
+384 in IN a DT standing VBG 1
+385 in IN the DT girl NN 1
+386 in IN a DT girl NN 1
+386 in IN a DT girl NN 1
+387 in IN a DT desk NN 1
+388 in IN grey NN girl NN 1
+388 at IN a DT sitting VBG 1
+388 in IN grey NN girl NN 1
+389 in IN her PRP$ standing VBG 1
+389 in IN her PRP$ standing VBG 1
+390 in IN the DT blackboard NN 1
+391 in IN a DT boy NN 1
+391 with IN a DT jumper NN 0
+391 in IN a DT boy NN 1
+392 behind IN him PRP standing VBG 1
+393 in IN a DT standing VBG 1
+394 in IN a DT hair NN 1
+394 in IN a DT hair NN 1
+395 behind IN her PRP$ null null 1
+395 with IN a DT boy NN 0
+396 in IN the DT desk NN 1
+397 in IN a DT boy NN 1
+397 in IN a DT boy NN 1
+398 of IN paper NN sheets NNS 0
+398 on IN the DT paper NN 1
+399 in IN the DT standing VBG 1
+400 in IN a DT standing VBG 1
+401 behind IN her PRP$ right NN 1
+402 in IN the DT desk NN 1
+403 on IN the DT wall NN 1
+404 in IN a DT sitting VBG 1
+405 on IN a DT figures NNS 1
+405 in IN the DT wall NN 1
+406 in IN a DT standing VBG 1
+407 in IN the DT desks NNS 1
+408 in IN the DT blackboard NN 1
+409 with IN long RB girl NN 0
+409 in IN a DT standing VBG 1
+410 in IN the DT her PRP$ 1
+411 with IN a DT pullover NN 0
+411 in IN a DT standing VBG 1
+412 in IN the DT kids NNS 1
+413 in IN the DT blackboard NN 1
+414 with IN blue NN tee-shirt NN 0
+414 at IN the DT spot NN 0
+414 in IN grey NN boy NN 1
+415 in IN the DT blackboard NN 1
+416 with IN long RB girl NN 0
+416 in IN a DT standing VBG 1
+418 in IN the DT desks NNS 1
+419 with IN dark NN girl NN 0
+419 in IN a DT standing VBG 1
+419 in IN a DT standing VBG 1
+420 in IN the DT desks NNS 1
+421 in IN grey NN girl NN 1
+421 in IN grey NN girl NN 1
+422 in IN the DT blackboard NN 1
+425 in IN the DT rocks NNS 1
+428 in IN the DT rocks NNS 1
+429 on IN the DT sitting VBG 1
+430 in IN the DT rocks NNS 1
+431 in IN a DT girl NN 0
+432 in IN the DT rocks NNS 1
+433 in IN the DT hills NNS 1
+436 in IN the DT boulders NNS 1
+438 with IN stones NNS scenery NN 0
+439 in IN blue NN boy NN 0
+441 in IN the DT rocks NNS 1
+442 in IN a DT standing VBG 1
+443 in IN the DT blackboard NN 1
+444 with IN a DT boy NN 0
+444 with IN a DT boy NN 0
+444 in IN the DT sitting VBG 1
+445 in IN the DT boulders NNS 1
+446 with IN two CD girl NN 0
+446 in IN a DT standing VBG 1
+447 in IN the DT ) ) 1
+448 with IN two CD girl NN 0
+448 with IN two CD girl NN 0
+448 in IN front NN standing VBG 1
+448 in IN front NN standing VBG 1
+450 in IN the DT blackboard NN 1
+451 with IN a DT shirt NN 0
+451 in IN a DT standing VBG 1
+452 in IN the DT blackboard NN 1
+454 in IN the DT rocks NNS 1
+455 on IN the DT blue NN 0
+455 in IN a DT standing VBG 1
+456 in IN the DT kids NNS 1
+457 in IN a DT standing VBG 1
+458 in IN the DT blackboard NN 1
+459 in IN a DT boy NN 1
+459 in IN a DT boy NN 1
+459 in IN a DT boy NN 1
+461 in IN a DT kid NN 0
+461 behind IN him PRP right NN 1
+462 in IN the DT kids NNS 1
+463 in IN a DT boy NN 0
+464 on IN the DT plane NN 1
+465 with IN stones NNS landscape NN 0
+465 in IN the DT rocks NNS 1
+467 in IN the DT rocks NNS 1
+469 with IN stones NNS landscape NN 0
+469 in IN the DT rocks NNS 1
+470 with IN a DT girl NN 0
+471 in IN the DT desert NN 1
+472 in IN a DT standing VBG 1
+473 in IN the DT rocks NNS 1
+475 in IN the DT stones NNS 1
+477 with IN very RB background NN 0
+479 of IN bushes NNS couple NN 0
+479 in IN the DT houses NNS 1
+479 with IN a DT one CD 0
+479 with IN a DT one CD 0
+480 with IN long RB girl NN 0
+485 with IN a DT ( ( 0
+485 on IN it PRP woodpecker NN 1
+486 in IN front NN standing VBG 1
+486 of IN a DT front NN 0
+487 on IN the DT black JJ 0
+488 of IN a DT wall NN 0
+488 on IN the DT house NN 1
+488 with IN some DT house NN 0
+488 on IN the DT house NN 1
+488 in IN the DT left NN 1
+489 in IN front NN standing VBG 1
+489 of IN a DT front NN 0
+490 with IN a DT cap NN 0
+491 of IN a DT portrait NN 0
+493 in IN distance NN trees NNS 1
+494 in IN front NN standing VBG 1
+494 of IN a DT front NN 0
+495 with IN a DT jumper NN 0
+495 in IN the DT standing VBG 1
+496 with IN a DT house NN 0
+496 in IN the DT roof NN 1
+499 in IN the DT houses NNS 1
+499 with IN a DT one CD 0
+500 of IN rocks NNS couple NN 0
+500 in IN the DT around IN 1
+500 behind IN the DT just RB 1
+501 in IN the DT standing VBG 1
+501 behind IN a DT meadow NN 1
+502 in IN the DT stones NNS 1
+503 in IN a DT cardigan NN 1
+503 behind IN a DT meadow NN 1
+504 in IN the DT standing VBG 1
+505 in IN the DT around IN 1
+506 in IN a DT boy NN 1
+506 with IN a DT ( ( 0
+506 on IN it PRP bear NN 1
+506 in IN a DT boy NN 1
+507 in IN the DT around IN 1
+510 in IN the DT garbage NN 1
+512 in IN the DT null null 1
+512 of IN a DT backyard NN 0
+513 with IN a DT girl NN 0
+513 underneath NN a DT vest NN 1
+513 in IN the DT null null 1
+513 of IN a DT backyard NN 1
+515 in IN background NN grass NN 1
+517 in IN the DT grass NN 1
+519 in IN the DT grass NN 1
+521 in IN the DT houses NNS 1
+521 with IN a DT one CD 0
+521 with IN a DT one CD 0
+522 in IN the DT stones NNS 1
+524 with IN some DT null null 0
+524 in IN the DT grass NN 1
+525 with IN a DT jumper NN 0
+525 in IN front NN null null 1
+525 of IN a DT front NN 0
+528 in IN background NN sky NN 1
+529 in IN the DT standing VBG 1
+529 of IN a DT backyard NN 1
+530 with IN a DT house NN 0
+530 in IN the DT fence NN 1
+531 in IN front NN bag NN 1
+531 of IN the DT front NN 0
+532 with IN a DT boy NN 0
+534 in IN near IN trees NNS 1
+536 with IN a DT boy NN 0
+536 in IN front NN null null 1
+536 of IN a DT portrait NN 0
+536 of IN a DT portrait NN 0
+538 in IN the DT garbage NN 1
+539 with IN a DT boy NN 0
+540 in IN background NN grass NN 1
+542 in IN the DT grass NN 1
+543 in IN front NN standing VBG 1
+543 of IN a DT front NN 0
+544 behind IN hills NNS sunset NN 1
+545 in IN a DT girl NN 1
+545 in IN a DT girl NN 1
+545 of IN a DT front NN 0
+546 behind IN a DT sunset NN 1
+547 with IN a DT boy NN 0
+547 in IN front NN standing VBG 1
+547 of IN a DT front NN 0
+547 with IN a DT boy NN 0
+548 in IN a DT boy NN 1
+548 of IN a DT front NN 0
+548 of IN a DT front NN 0
+549 in IN front NN standing VBG 1
+549 of IN a DT front NN 0
+549 of IN a DT front NN 0
+550 with IN a DT girl NN 0
+550 in IN front NN standing VBG 1
+550 of IN a DT front NN 0
+550 with IN a DT girl NN 0
+551 against IN a DT leaning VBG 1
+552 in IN front NN standing VBG 1
+552 of IN a DT front NN 0
+553 under IN a DT shirt NN 1
+553 with IN a DT vest NN 0
+553 at IN a DT standing VBG 1
+554 with IN a DT jumper NN 0
+554 on IN a DT leaning VBG 1
+555 with IN a DT anorak NN 0
+555 in IN front NN zip NN 1
+555 of IN a DT front NN 0
+557 with IN little JJ landscape NN 0
+557 in IN the DT grass NN 1
+558 of IN a DT roof NN 0
+558 in IN the DT range NN 1
+559 outside IN a DT standing VBG 1
+560 with IN a DT boy NN 0
+560 in IN front NN standing VBG 1
+560 of IN a DT front NN 0
+561 in IN the DT roofs NN 1
+562 in IN front NN standing VBG 1
+563 in IN front NN standing VBG 1
+564 in IN front NN standing VBG 1
+564 of IN a DT front NN 0
+565 in IN front NN standing VBG 1
+565 of IN a DT front NN 0
+566 with IN a DT cap NN 0
+566 in IN front NN standing VBG 1
+566 of IN a DT front NN 0
+567 of IN silk NN made VBN 0
+569 of IN a DT view NN 0
+569 with IN a DT room NN 0
+569 in IN the DT bed NN 1
+570 on IN the DT mirror NN 1
+570 with IN a DT table NN 0
+570 on IN the DT mirror NN 1
+570 above IN the DT wall NN 1
+571 in IN white JJ man NN 0
+571 on IN a DT sitting VBG 1
+571 on IN a DT sitting VBG 1
+572 on IN the DT null null 1
+573 on IN the DT null null 1
+573 before IN the DT ( ( 1
+573 with IN flowers NNS vase NN 0
+574 in IN front NN brief-case NN 1
+574 of IN the DT front NN 0
+574 on IN the DT hanging VBG 1
+574 above IN the DT wall NN 1
+575 in IN front NN parking NN 1
+575 of IN the DT front NN 0
+576 at IN the DT stairs NNS 1
+577 at IN each DT lamp NN 1
+577 of IN the DT side NN 0
+578 with IN a DT courtyard NN 0
+578 in IN the DT pots NNS 1
+579 on IN two CD courtyard NN 0
+579 in IN front NN levels NNS 1
+579 of IN the DT front NN 0
+579 with IN a DT building NN 0
+581 of IN a DT view NN 0
+581 with IN two CD room NN 0
+582 on IN the DT null null 1
+583 at IN the DT window NN 1
+584 inside IN photograph NN null null 0
+584 of IN a DT photograph NN 0
+584 with IN a DT room NN 0
+587 with IN a DT armchairs NNS 0
+587 on IN the DT table NN 1
+587 at IN the DT left NN 1
+589 on IN each DT pot NN 1
+589 of IN the DT side NN 0
+590 in IN front NN flags NNS 1
+591 in IN the DT sky NN 1
+592 of IN a DT view NN 0
+592 with IN stairs NNS null null 0
+592 of IN a DT view NN 0
+592 on IN the DT floor NN 1
+592 in IN the DT windows NNS 1
+593 of IN the DT entrance NN 0
+594 on IN the DT houses NNS 1
+595 in IN the DT sky NN 1
+596 of IN a DT view NN 0
+596 with IN white JJ room NN 0
+596 on IN it PRP lamp NN 1
+598 in IN front NN street NN 1
+598 of IN the DT front NN 0
+599 of IN glass NN made VBN 0
+600 in IN the DT pool NN 1

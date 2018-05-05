@@ -316,7 +316,6 @@
 175 pictures
 176 desk
 176 chairs
-176 paintings
 177 cupboard
 178 volunteer
 179 ground
